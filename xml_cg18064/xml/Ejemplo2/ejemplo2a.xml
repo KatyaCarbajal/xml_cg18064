@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--ejemplo2a.xml CG18064-->
+<?xml-stylesheet type="text/css" href="ejemplo2a.css"?>
+<pais nombre="El Salvador" moneda="Dolar estadounidense" idioma ="Español" codigo_telefonico_de_area="503"  > 
+  <departamento id = "1" nombre="San Salvador">
+      <cabecera>San Salvador</cabecera>
+     <habitantes>1,700,000</habitantes>
+     <altura>545 MSNM</altura>
+  </departamento>
+  <departamento id = "2" nombre="La Libertad">
+      <cabecera>Santa Tecla</cabecera>
+     <habitantes>843,500</habitantes>
+     <altura>3 MSNM</altura>
+     <area_territorial>1653km2</area_territorial>
+  </departamento>
+</pais>
+

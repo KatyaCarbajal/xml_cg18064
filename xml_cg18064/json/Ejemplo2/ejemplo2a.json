@@ -1,0 +1,25 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"@moneda":"Dolar estadounidense",
+		"@idioma":"Español",
+		"@codigo_telefonico_de_area":"503",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Libertad",
+				"cabecera":"Santa Tecla",
+				"habitantes":"843,500",
+				"altura":"3 MSNM",
+				"area_territorial":"1653km2"
+			}
+		]
+	}
+}

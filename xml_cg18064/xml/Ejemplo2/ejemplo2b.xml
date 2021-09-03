@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--ejemplo2a.xml CG18064-->
+<?xml-stylesheet type="text/css" href="ejemplo2b.css"?>
+<pais nombre="El Salvador" moneda="Dolar estadounidense" idioma ="Español" codigo_telefonico_de_area="503" > 
+  <departamento id = "1" nombre="San Salvador">
+      <cabecera>San Salvador</cabecera>
+     <habitantes>1,700,000</habitantes>
+     <altura>545 MSNM</altura>
+  </departamento>
+  <departamento id = "2" nombre="La Libertad">
+      <cabecera>Santa Tecla</cabecera>
+     <habitantes>843,500</habitantes>
+     <altura>3 MSNM</altura>
+     <area_territorial>1653km2</area_territorial>
+   </departamento>
+  <departamento id = "3" nombre="Santa Ana">
+      <cabecera>Santa  Ana</cabecera>
+     <habitantes>631,100</habitantes>
+     <altura>763 MSNM</altura>
+     <area_territorial>2023.17km2</area_territorial>
+     <municipios>13</municipios>
+     <alcalde>Gustavo Acevedo</alcalde>
+     <fecha_fiesta_patronal>17 al 26 de julio</fecha_fiesta_patronal>
+  </departamento>
+</pais>

@@ -1,0 +1,10 @@
+/* ejemplo2b CG18064*/
+pais {background-color:darkseagreen;}
+departamento {background-color:honeydew; display:block;}
+cabecera {color:indianred; display:inline;}
+habitantes {color:goldenrod; display:inline;}
+altura {color:salmon;font-size:0.5cm; display:inline;}
+area_territorial {color:thistle;font-size:0.5cm; display:inline;}
+municipios{color:sandybrown;font-size:0.5cm; display:inline;}
+alcalde{color:steelblue;font-size:0.5cm; display:inline;}
+fecha_fiesta_patronal{color:rebeccapurple;font-size:0.5cm; display:inline;}

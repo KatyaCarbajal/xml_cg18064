@@ -1,0 +1,7 @@
+/*   ejemplo2a CG18064   */
+pais {background-color:peachpuff;}
+departamento {background-color:linen; display:block;}
+cabecera {color:indigo; display:inline;}
+habitantes {color:hotpink; display:inline;}
+altura {color:firebrick;font-size:0.5cm; display:inline;}
+area_territorial {color:darkgreen;font-size:0.5cm; display:inline; font-family: Western, fantasy}

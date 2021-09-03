@@ -1,0 +1,5 @@
+/*   ejemplo2 CG18064   */
+pais {background-color:aqua;}
+departamento {background-color:beige; display:block;}
+cabecera {color:cadetblue; display:inline;} habitantes {color:deepskyblue; display:inline;}
+altura {color:indigo;font-size:0.5cm; display:inline;}

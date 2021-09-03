@@ -1,0 +1,36 @@
+{
+	"pais":{
+		"@nombre":"El Salvador",
+		"@moneda":"Dolar estadounidense",
+		"@idioma":"Español",
+		"@codigo_telefonico_de_area":"503",
+		"departamento":[
+			{
+				"@id":"1",
+				"@nombre":"San Salvador",
+				"cabecera":"San Salvador",
+				"habitantes":"1,700,000",
+				"altura":"545 MSNM"
+			},
+			{
+				"@id":"2",
+				"@nombre":"La Libertad",
+				"cabecera":"Santa Tecla",
+				"habitantes":"843,500",
+				"altura":"3 MSNM",
+				"area_territorial":"1653km2"
+			},
+			{
+				"@id":"3",
+				"@nombre":"Santa Ana",
+				"cabecera":"Santa  Ana",
+				"habitantes":"631,100",
+				"altura":"763 MSNM",
+				"area_territorial":"2023.17km2",
+				"municipios":"13",
+				"alcalde":"Gustavo Acevedo",
+				"fecha_fiesta_patronal":"17 al 26 de julio"
+			}
+		]
+	}
+}
